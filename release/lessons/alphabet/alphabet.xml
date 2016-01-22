@@ -1,0 +1,48 @@
+﻿<body>
+	<table width="750" bordersize="1" cellspacing="0" borderalpha="0" fontsize="13" fontface="Arial">
+		<tr><td colspan="0.5"></td><td colspan="2" fontweight="bold" fontsize="17">Кыргыз Алфавит</td><td colspan="2" fontsize="15">English equivalent</td></tr>
+		<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">А а</td> <td>А</td> <td colspan="2">(ah, as in rather)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">Б б</td> <td>B</td> <td colspan="2">(b, be, but)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">В в</td> <td>V</td> <td colspan="2">(v, ve, vase)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">Г г</td> <td>G</td> <td colspan="2">(g, ge, girl)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">Д д</td> <td>D</td> <td colspan="2">(d, de, dull)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">Е е</td> <td>E</td> <td colspan="2">(yeh)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">Ё ё</td> <td> </td> <td colspan="2">(yo, york)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">Ж ж</td> <td>J</td> <td colspan="2">(j, je, John)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">З з</td> <td>Z</td> <td colspan="2">(z, ze)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">И и</td> <td>I</td> <td colspan="2">(ee, see)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">Й й</td> <td> </td> <td colspan="2">(y, boy)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">К к</td> <td>K</td> <td colspan="2">(k, ka)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">Л л</td> <td>L</td> <td colspan="2">(l, el)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">М м</td> <td>M</td> <td colspan="2">(m, em)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">Н н</td> <td>N</td> <td colspan="2">(n, en)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">Ң ң</td> <td> </td> <td colspan="2">(ng, sing)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">О о</td> <td>O</td> <td colspan="2">(o, fork)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">Ө ө</td> <td> </td> <td colspan="2">(ir, sir, fur, rounded; German ö)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">П п</td> <td>P</td> <td colspan="2">(pe)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">Р р</td> <td>R</td> <td colspan="2">(er, through)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">С с</td> <td>S</td> <td colspan="2">(es)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">Т т</td> <td>T</td> <td colspan="2">(te)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">У у</td> <td>U</td> <td colspan="2">(oo, food)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">Ү ү</td> <td> </td> <td colspan="2">(you, rounded; German ü)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">Ф ф</td> <td>F</td> <td colspan="2">(ef)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">Х х</td> <td>H</td> <td colspan="2">(kha, hard; Swiss ch)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">Ц ц</td> <td> </td> <td colspan="2">(ts, as in gets; German z)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">Ч ч</td> <td> </td> <td colspan="2">(ch, che)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">Ш ш</td> <td> </td> <td colspan="2">(sh, sh)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">Щ щ</td> <td> </td> <td colspan="2">(shtsh, sha)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">Ъ ъ</td> <td> </td> <td colspan="2">(harden previous letter)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">Ь ь</td> <td> </td> <td colspan="2">(softens previous letter)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">Ы ы</td> <td> </td> <td colspan="2">(er, with spread lips)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">Э э</td> <td> </td> <td colspan="2">(eh; German ä)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">Ю ю</td> <td> </td> <td colspan="2">(yu)</td></tr>
+		<tr><td colspan="1"></td><td colspan="1.2">Я я</td> <td> </td> <td colspan="2">(ya, yard)</td></tr>
+		
+		<tr><td><br></br></td></tr>
+		
+	</table>
+</body>
+

@@ -1,0 +1,148 @@
+﻿<body>
+	<table width="750" bordersize="1" cellspacing="0" borderalpha="0" fontsize="13">
+		<tr><td colspan="6" align="center" fontweight="bold">2- сабак. Темасы:  	мен - менин; 	ал - анын </td></tr>
+		<tr><td>1</td><td>2</td><td>I (am) - my;</td><td colspan="2">	he/she/it (is) - his/her/its</td><td>6</td></tr>
+		
+		<tr><td borderalpha="1">үндүү/vowel</td><td borderalpha="1">  -а, -ы, -я </td><td borderalpha="1">  -е, -э, -и</td><td borderalpha="1">-о, -ё, -у, -ю </td>
+			<td borderalpha="1"> -ө, -ү </td></tr>
+		<tr><td borderalpha="1">Мен</td><td borderalpha="1">кыргыз –мын</td><td borderalpha="1">немис -мин</td><td borderalpha="1">орус -мун</td>
+			<td borderalpha="1">дүкөнчү-мүн</td></tr>
+		<tr><td borderalpha="1">Ал</td><td borderalpha="1">кыргыз</td><td borderalpha="1">немис</td><td borderalpha="1">орус</td>
+			<td borderalpha="1">дүкөнчү</td></tr>
+			
+		<tr><td bgalpha="0"></td></tr>
+		<tr><td bgalpha="0">Мен кыргызмын.</td><td colspan="2" bgalpha="0">	I =  мен;  Kyrgyz = кыргыз;</td>
+			<td colspan="2" bgalpha="0">I am Kyrgyz.    (Lit., “I Kyrgyz am.”)</td></tr>
+		<tr><td>Мен мугалиммин.</td><td colspan="2">teacher = мугалим;</td><td colspan="2">I am a teacher. (Lit., “I teacher am.")</td></tr>
+		
+		<tr><td colspan="6"><br></br>The “I am” suffix begins with “м” and ends with “н”.  The vowel in the suffix must be in accordance with the rules of 
+				high vowel harmony.</td></tr>
+				
+		<tr><td><br></br></td></tr>
+		<tr><td colspan="3" borderalpha="1">High Vowel Harmony</td></tr>
+		<tr><td borderalpha="1">final vowel in stem</td><td colspan="2" borderalpha="1"> vowel in suffix</td></tr>
+		<tr><td borderalpha="1">a, ы, я<br>е, э, и</br><br>о, е, у, ю</br><br>ө, ү</br></td>
+			<td borderalpha="1">-ы(м)<br>-и(м)</br><br>-у(м)</br><br>-ү(м)</br></td>
+			<td borderalpha="1">-(с)ы<br>-(с)и</br><br>-(с)у</br><br>-(с)ү</br></td></tr>
+		<tr><td bgalpha="0"></td></tr>
+		<tr><td colspan="5">ал =  he/she/it;    Ал кыргыз. =  He/She/It is Kyrgyz. (Lit., "He/She/It Kyrgyz.")</td></tr>
+		<tr><td colspan="5">* N.B.  The verb “to be” is omitted in the 3rd person present simple tense.</td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td borderalpha="1"></td><td borderalpha="1"> after vowel </td><td colspan="4" borderalpha="1">after consonant</td></tr>
+		<tr><td borderalpha="1">my</td><td borderalpha="1">-м</td><td borderalpha="1">-ым</td><td borderalpha="1">-им</td>
+			<td borderalpha="1">-ум</td><td borderalpha="1">-үм</td></tr>
+		<tr><td borderalpha="1">менин</td><td borderalpha="1">бала -м</td><td borderalpha="1">кыз -ым</td><td borderalpha="1">кесиб -им</td>
+			<td borderalpha="1">дос -ум</td><td borderalpha="1">үй -үм</td></tr>
+		<tr><td borderalpha="1">his/her/its</td><td borderalpha="1">-сы</td><td borderalpha="1">-ы</td><td borderalpha="1">-(с)и</td>
+			<td borderalpha="1">-(с)у</td><td borderalpha="1">-(с)ү</td></tr>
+		<tr><td borderalpha="1">анын</td><td borderalpha="1">бала -сы</td><td borderalpha="1">кыз -ы</td><td borderalpha="1">кесиб -и</td>
+			<td borderalpha="1">дос -у</td><td borderalpha="1">үй -ү</td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td colspan="6">The “my” (possessive noun) suffix always ends with “м”, which is added to a word that ends in a vowel (үндүү).  When the word ends in a 
+			consonant, the suffix must contain a vowel that is in accordance with the rules of high vowel harmony.</td></tr>
+		<tr><td><br></br></td></tr>
+		<tr><td colspan="6">In other words, the “my” suffix will be one of the following:	-м,  -ым,  -им,  -ум,  -үм
+				<br>The “his/her/its” suffix will be -ы, -и, -у, -ү.  If the word ends in a vowel, -c- is added.</br></td></tr>
+				
+		<tr><td>Examples:</td><td colspan="2">менин =  my;    бала =  child;</td></tr>
+		<tr><td></td><td colspan="3">my child	=  менин балам (Lit., “my child-my.")</td></tr>
+		<tr><td align="right">but:</td><td colspan="2">his/her child	=  анын  баласы</td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td colspan="6">Анын кесиби (кесип)    Note: Voiceless п changes to voiced б between vowels. (*кесипи > кесиби)</td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td colspan="2">Мисалы:	(Examples)</td></tr>
+		<tr><td colspan="2">а)	Мен кыргызмын.<br>Ал орус.</br></td><td colspan="2">б) Менин улутум кыргыз<br>Анын улуту орус.</br></td>
+			<td colspan="2">улут  -  nationality </td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td colspan="2"><u>Монолог:</u></td></tr>
+		<tr><td colspan="6">1.	Менин атым Жейн.  *Фамилиям Буш.  Улутум америкалык, кесибим бизнесмен.	Бул болсо менин досум.  Анын аты Аалы.  Ал кыргыз.
+				Кесиби бизнесмен.</td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td colspan="6">  *  менин is not needed, as the м suffix on фамилиям shows that it is “my”</td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td colspan="6">2.	Менин атым Асан.  Фамилиям Булатов.  Мен бишкектикмин. Улутум казак.  Мен студентмин.
+			<br></br>Бул болсо Вадим.  Ал канттык.  Анын улуту орус, кесиби инженер.	Вадим менин досум.</td></tr>
+		<tr><td colspan="2">ат, ысым	- name; <br>дос	- friend;</br><br> канттык  - from Kant (a town);</br></td>
+			<td colspan="2">кесип - profession<br>улут - nationality</br></td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td colspan="6"><u>Диалогдор:</u>  Read and say the dialogues, then answer the questions based on them.</td></tr>
+		<tr><td colspan="3">1.<br>- Бул ким?</br><br>- Менин досум.</br><br>- Анын аты ким?</br><br> - Аты Жим.</br><br> - Улуту ким?</br>
+			<br> - Ал америкалык.</br><br> - Кесиби эмне?</br><br> - Студент.</br><br>- Абдан жакшы.</br></td>
+			<td colspan="3">2.<br>- Саламатсызбы?</br><br>- Саламатчылык.  Сиз кимсиз?</br><br>- Мен дарыгермин.  Атым Марлин.</br><br>- Жакшы.  А бул ким?</br>
+			<br>- Бул болсо Стив.  Ал профессор.</br><br>- Стив каерлик?</br><br>- Ал канадалык.</br><br>- Мен да канадалыкмын.</br></td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td colspan="3">1. Жим ким?<br>2. Ким америкалык?</br><br>3. Ким студент?</br><br>4. Анын улуту ким?</br></td>
+			<td colspan="3">1. Марлин ким?<br>2. Ким канадалык?</br><br>3. Стив ким?</br><br>4. Саламатсызбы?</br></td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td colspan="3">3.<br>- Саламатсыңбы?</br><br>- Саламатчылык.</br><br>- Таанышып ал. Бул менин студентим. Анын аты Асан.  Асан казак.</br>
+			<br>- А тиги ким?</br><br>- Ал анын досу.  Аты Жим.</br><br>- Анын улуту ким?</br><br>- Ал америкалык.</br><br>- А кесиби эмне?</br>
+			<br>- Ал студент.</br></td>
+			<td colspan="3"><br>Таанышып ал.  -  Let me introduce ......(Lit., “Get acquainted.”)</br><br>каерлик   -  Where ... from?</br></td></tr>
+
+		<tr><td><br></br></td></tr>
+		<tr><td colspan="3">1. Саламатсыңбы?<br>2. Ким казак?</br><br>3. Ким  америкалык?</br><br>4. Анын кесиби эмне?</br></td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td><u>Аңгеме:</u></td></tr>
+		<tr><td colspan="6">Менин досторум көп.  Марлин - дарыгер.  Ал канадалык.  Вадим - орус.  Анын кесиби инженер.  Ганс улуту боюнча немис. Ал германиялык.	
+		Кесиби мугалим. Стив кесиби боюнча окутуучу, профессор. Анын улуту канадалык. Жейн болсо бизнесмен, улуту америкалык.  
+		Жим - студент.  Жим да америкалык. 	Мен кыргызмын.  Кесибим спортсмен.  Атым Таалай.</td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td colspan="2">достор - friends<br>улуту боюнча - by nationality</br><br>кесиби боюнча	- by profession</br><br>көп	- many</br></td>
+			<td colspan="2">немис - German<br>германиялык	- from Germany</br><br>окутуучу - teacher (in high school)</br></td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td><u>Текст:</u></td></tr>
+		<tr><td colspan="6">Бул Айша.   Ал менин аялым.   Анын кесиби мугалим.   Тиги болсо кызым.  Аты Анар, ал сатуучу.  Мен бизнесменмин.  
+			Атым Аалы, улутум кыргыз.  Айша болсо казак.  Ал алматылык, мен бишкектикмин. </td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td colspan="2">аял - wife, woman;</td><td colspan="2">кыз - daughter, girl</td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td colspan="6"><u>Тапшырмалар:</u>Complete the following exercises by filling in each blank with a suitable word and/or the correct suffix.</td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td>1.</td><td colspan="5">Менин атым Айша.<br>Менин ...... бизнесмен.</br><br>Менин ...... америкалык.</br></td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td>2.</td><td colspan="5">Анын	...... Стив.<br>Анын ...... америкалык.</br><br>Анын ...... Уилсон.</br><br>Анын ...... мугалим.</br></td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td>3.</td><td colspan="5">...... атым Вадим.<br>...... аты Жейн.</br><br>...... улутум кыргыз.</br><br>...... улуту казак.</br></td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td>4.</td><td colspan="5">Мен кыргызмын......<br>Мен орус......</br><br>Мен америкалык......</br><br>Мен казак......</br><br>Мен немис......</br>
+			<br>Мен түрк......</br><br>Мен канадалык......</br></td></tr>
+			
+		<tr><td><br></br></td></tr>
+		<tr><td>5.</td><td colspan="5">Мен инженермин<br>Мен мугалим......</br><br>Мен профессор......</br><br>Мен дүкөнчү......</br>
+			<br>Мен студент......</br></td></tr>
+			
+		<tr><td><br></br></td></tr>
+		<tr><td>6.</td><td colspan="3">Мен профессормун, ал да профессор.<br>Мен дарыгермин, ал да......</br><br>Мен бизнесменмин, ал да......</br>
+			<br>Мен студентмин, ал да......</br><br>Мен китепканачымын, ал да......</br><br>Ал студент, мен да......</br>
+			<br>Ал китепканачы, мен да......</br></td>
+			<td>да - too, also</td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td>7.</td><td colspan="5">Мен Аалымын.<br>Мен Болот......</br><br>Ал Жим......</br><br>Мен Асан......</br><br>Ал Айша......</br>
+			<br>Мен Стив......</br></td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td>8.</td><td colspan="5">Мен канадалыкмын.<br>Ал германиялык......</br><br>Асан бишкектик......</br><br>Рашид ташкендик......</br>
+			<br>Мен швециялык......</br></td></tr>
+	</table>
+</body>
+s

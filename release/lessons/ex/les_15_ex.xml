@@ -1,0 +1,140 @@
+﻿<body>
+	<table width="750" bordersize="1" cellspacing="1" borderalpha="0" fontsize="13">
+	<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+		<tr><td colspan="8">1. Көнүгүү - тапшырма   Exercise / Read the text, then answer the questions.</td></tr>
+		<tr><td colspan="8"><u>Текст:</u>
+			<br>- Таанышып ал, Аалы.  Бул Жейн.  Жейн америкалык.  Ал бизнесмен.</br>
+			<br>- Жейн, бул болсо Аалы.   Аалы кыргыз.   Ал да бизнесмен.</br></td></tr>
+		<tr><td colspan="2.3">1. Жейн ким?</td><td type="input">бизнесмен</td></tr>
+		<tr><td colspan="2.3">2. Аалы ким?</td><td type="input">бизнесмен</td></tr>
+		<tr><td colspan="2.3">3. Ким америкалык?</td><td type="input">Жейн</td></tr>
+		<tr><td colspan="2.3">4. Ким кыргыз?</td><td type="input">Аалы</td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td colspan="8">2. Make short introductions, following the example:</td></tr>
+		<tr><td colspan="4" align="right">Үлгү  (Example):  Аалы / Жейн  ></td><td colspan="2">- Аалы, бул Жейн. <br>- Жейн, бул Аалы.</br></td></tr>
+		<tr><td>1.</td></tr>
+		<tr><td colspan="0.1">-</td><td colspan="0.9">Асан,</td> <td type="input" >бул</td> <td>Марлин</td></tr>
+		<tr><td colspan="0.1">-</td><td colspan="0.9">Марлин,</td> <td type="input">бул</td> <td>Асан</td></tr>
+		
+		<tr><td>2.</td></tr>
+		<tr><td colspan="0.1">-</td><td colspan="0.9">Аалы,</td> <td type="input">бул</td> <td>Стив</td></tr>
+		<tr><td colspan="0.1">-</td><td colspan="0.9">Стив,</td> <td type="input">бул</td> <td>Аалы</td></tr>
+		
+		<tr><td>3.</td></tr>
+		<tr><td colspan="0.1">-</td><td colspan="0.9">Айша,</td> <td type="input">бул</td> <td>Жейн</td></tr>
+		<tr><td colspan="0.1">-</td><td colspan="0.9">Жейн,</td> <td type="input">бул</td> <td>Айша</td></tr>
+		
+		<tr><td>4.</td></tr>
+		<tr><td colspan="0.1">-</td><td colspan="0.9">Вадим,</td> <td type="input">бул</td> <td>Таалай</td></tr>
+		<tr><td colspan="0.1">-</td><td colspan="0.9">Таалай,</td> <td type="input">бул</td> <td>Вадим</td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td colspan="3">3. Make short dialogues, following the example:</td></tr>
+		<tr><td colspan="3">Үлгү:	Айша / Вадим <br>китеп / дептер</br></td><td colspan="2">- Бул ким?<br>- Бул Айша.</br><br>- Тиги ким?</br><br>- Тиги Вадим.</br></td>
+			<td colspan="2">- Бул эмне?<br>- Бул китеп.</br><br>- Тиги эмне?</br><br>- Тиги дептер.</br></td></tr>
+		<tr><td colspan="2">1. Асан / Аалы<br>2. Жейн / Жим</br><br>3. Дон / Том</br><br>4. Анар / Айша</br><br>5. китеп / дептер</br>
+				<br>6. мышык / ит</br><br>7. калем / кагаз</br><br>8. стол / отургуч</br></td>
+			<td colspan="2"><br></br><br>калем - pen</br><br>кагаз - paper</br><br>стол - table</br><br>отургуч - chair</br></td></tr>
+			
+		<tr><td>1.</td></tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Бул</td> <td type="input" >ким</td> <td>?</td></tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Бул</td> <td colspan="0.9">Асан.</td> </tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Тиги</td> <td type="input" >ким</td> <td>?</td></tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Тиги</td> <td colspan="0.9">Аалы.</td> </tr>
+		
+		<tr><td>2.</td></tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Бул</td> <td type="input" >ким</td> <td>?</td></tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Бул</td> <td colspan="0.9">Жейн.</td> </tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Тиги</td> <td type="input" >ким</td> <td>?</td></tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Тиги</td> <td colspan="0.9">Жим.</td> </tr>
+		
+		<tr><td>3.</td></tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Бул</td> <td type="input" >ким</td> <td>?</td></tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Бул</td> <td colspan="0.9">Дон.</td> </tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Тиги</td> <td type="input" >ким</td> <td>?</td></tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Тиги</td> <td colspan="0.9">Том.</td> </tr>
+		
+		<tr><td>4.</td></tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Бул</td> <td type="input" >ким</td> <td>?</td></tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Бул</td> <td colspan="0.9">Анар.</td> </tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Тиги</td> <td type="input" >ким</td> <td>?</td></tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Тиги</td> <td colspan="0.9">Айша.</td> </tr>
+		
+		<tr><td>5.</td></tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Бул</td> <td type="input" >эмне</td> <td>?</td></tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Бул</td> <td colspan="0.9">китеп.</td> </tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Тиги</td> <td type="input" >эмне</td> <td>?</td></tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Тиги</td> <td colspan="0.9">дептер.</td> </tr>
+		
+		<tr><td>6.</td></tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Бул</td> <td type="input" >эмне</td> <td>?</td></tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Бул</td> <td colspan="0.9">мышык.</td> </tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Тиги</td> <td type="input" >эмне</td> <td>?</td></tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Тиги</td> <td colspan="0.9">ит.</td> </tr>
+		
+		<tr><td>7.</td></tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Бул</td> <td type="input" >эмне</td> <td>?</td></tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Бул</td> <td colspan="0.9">калем.</td> </tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Тиги</td> <td type="input" >эмне</td> <td>?</td></tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Тиги</td> <td colspan="0.9">кагаз.</td> </tr>
+		
+		<tr><td>8.</td></tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Бул</td> <td type="input" >эмне</td> <td>?</td></tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Бул</td> <td colspan="0.9">стол.</td> </tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Тиги</td> <td type="input" >эмне</td> <td>?</td></tr>
+		<tr><td colspan="0.1">-</td><td type="input" >Тиги</td> <td colspan="0.9">отургуч.</td> </tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td colspan="7">4. Make three sentences about each person, following the example given:</td></tr>
+		<tr><td colspan="7">Үлгү: Таалай / спортсмен/ кыргыз.
+				<br>>  Бул Таалай.  Таалай спортсмен.  Ал кыргыз.</br></td></tr>
+		<tr><td colspan="6">1. Марлин / дарыгер / канадалык<br>2. Вадим / инженер / орус.</br><br>3. Жейн / бизнесмен / америкалык</br>
+				<br>4. Ганс / студент / 		германиялык</br><br>5. Анар / мугалим / казак</br><br>6. Дон / котормочу / голландиялык</br></td>
+			<td colspan="4"><br></br><br>дарыгер	-	doctor</br><br>мугалим	-	teacher</br><br>котормочу	-	translator,interpreter</br></td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td colspan="0.4">1.</td><td type="input" >Бул</td> <td colspan="2">Марлин. Марлин </td> <td type="input" >дарыгер</td> <td colspan="0.5">. Ал</td> 
+			<td type="input" >канадалык</td><td>.</td></tr>
+		
+		<tr><td colspan="0.4">2.</td><td type="input" >Бул</td> <td colspan="2">Вадим. Вадим </td> <td type="input" >инженер</td> <td colspan="0.5">. Ал</td> 
+			<td type="input" >орус</td><td>.</td></tr>
+			
+		<tr><td colspan="0.4">3.</td><td type="input" >Бул</td> <td colspan="2">Жейн. Жейн </td> <td type="input" >бизнесмен</td> <td colspan="0.5">. Ал</td> 
+			<td type="input" >америкалык</td><td>.</td></tr>
+			
+		<tr><td colspan="0.4">4.</td><td type="input" >Бул</td> <td colspan="2">Ганс. Ганс </td> <td type="input" >студент</td> <td colspan="0.5">. Ал</td> 
+			<td type="input" >германиялык</td><td>.</td></tr>
+			
+		<tr><td colspan="0.4">5.</td><td type="input" >Бул</td> <td colspan="2">Анар. Анар </td> <td type="input" >мугалим</td> <td colspan="0.5">. Ал</td> 
+			<td type="input" >казак</td><td>.</td></tr>
+			
+		<tr><td colspan="0.4">6.</td><td type="input" >Бул</td> <td colspan="2">Дон. Дон </td> <td type="input" >котормочу</td> <td colspan="0.5">. Ал</td> 
+			<td type="input" >голландиялык </td><td>.</td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td colspan="10"><br>5.</br>	Place the “thing” and “animal” words in the same row as “китеп.” 
+				<br></br>Place the “people” words in the same row as “Айша.”</td></tr>
+		<tr><td align="right">Үлгү:</td><td colspan="4"> Бул эмне? - китеп,...... <br>Бул ким? - Айша,......</br></td></tr>
+		<tr><td colspan="8">китеп, Айша, студент, мугалим, мышык, күчүк, гезит, Марлин, журнал, инженер, кабинет, калем, Аалы, ит, кат,
+				дарыгер, дептер, Жылдыз, конверт</td></tr>
+		<tr><td colspan="8">күчүк - puppy;	кабинет - office;	кат - letter;	 конверт - envelope</td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td colspan="2.1">Бул эмне? - китеп,</td><td type="input" >гезит</td> <td type="input" >журнал</td>
+			<td type="input" >кабинет</td> <td type="input" >калем</td>
+			<td type="input" >кат</td> </tr>
+		<tr><td colspan="2.2"></td><td type="input" >дептер</td>
+			 <td type="input" >конверт</td><td>.</td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td colspan="2">Бул ким? - Айша,</td><td type="input" >Айша</td> <td type="input" >студент</td>
+			<td type="input" >мугалим</td>
+			<td type="input" >күчүк</td> <td type="input" >Марлин</td> </tr>
+		<tr><td colspan="2.1"></td><td type="input" >инженер</td> 
+			<td type="input" >Аалы</td> <td type="input" >ит</td> <td type="input" >дарыгер</td> 
+			<td type="input" >Жылдыз</td><td>.</td></tr>
+			
+			
+	</table>
+</body>

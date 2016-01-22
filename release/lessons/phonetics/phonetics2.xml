@@ -1,0 +1,54 @@
+﻿<body>
+	<table width="750" bordersize="1" cellspacing="0" borderalpha="0" fontsize="13">
+		<tr><td colspan="6" align="center" fontweight="bold" fontsize="15">Kyrgyz Vowels / Vowel Harmony</td></tr>
+		<tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td></tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td align="center" borderalpha="1">Unrounded</td><td align="center" borderalpha="1">low</td><td align="center" borderalpha="1">high</td>
+			<td align="center" borderalpha="1">high</td><td align="center" borderalpha="1">low</td></tr>
+		<tr><td align="center" borderalpha="1"> </td><td align="center" borderalpha="1">а</td><td align="center" borderalpha="1">Ы</td>
+			<td align="center" borderalpha="1">и</td><td align="center" borderalpha="1">е (э)</td></tr>
+		<tr><td align="center" borderalpha="1">Rounded</td><td align="center" borderalpha="1">о</td><td align="center" borderalpha="1">у</td>
+			<td align="center" borderalpha="1">ү</td><td align="center" borderalpha="1">ө</td></tr>
+		<tr><td align="center" borderalpha="1"> </td><td colspan="2" align="center" borderalpha="1">b   a   c   k</td>
+			<td colspan="2" align="center" borderalpha="1">f   r   o   n   t</td></tr>
+			
+		<tr><td bgalpha="0"><br></br></td></tr>
+		<tr><td colspan="1"></td><td colspan="2">а - back, low, unrounded<br>ы - back, high, unrounded</br><br>о - back, low, 	rounded</br>
+				<br>у - back, high,	rounded</br></td>
+			<td colspan="2">е (э)	- front, low, 	unrounded<br>и	- front, high,	unrounded</br><br>ө	- front, low,	rounded</br>
+				<br>ү	- front, high,	rounded</br></td>
+			</tr>
+		
+		<tr><td><br></br></td></tr>
+		<tr><td colspan="4" align="center" fontweight="bold">High Vowel Harmony</td></tr>
+		<tr><td><br></br></td></tr>
+		<tr><td colspan="2" align="center" borderalpha="1">vowel in syllable preceding suffix</td><td colspan="2" align="center" borderalpha="1">vowel in suffix</td></tr>
+		<tr><td colspan="2" align="center" borderalpha="1">а   ы<br>о   у</br><br>е   и</br><br>ө   ү</br></td>
+			<td colspan="2" align="center" borderalpha="1">ы<br>у</br><br>и</br><br>ү</br></td>
+			</tr>
+		
+		<tr><td bgalpha="0"><br></br></td></tr>
+		<tr><td colspan="4" align="center" fontweight="bold">Low Vowel Harmony</td></tr>
+		<tr><td><br></br></td></tr>
+		<tr><td colspan="2" align="center" borderalpha="1">vowel in syllable preceding suffix</td><td colspan="2" align="center" borderalpha="1">vowel in suffix</td></tr>
+		<tr><td colspan="2" align="center" borderalpha="1">а   ы<br>о</br><br>у</br><br>е   и</br><br>ө   ү</br></td>
+			<td colspan="2" align="center" borderalpha="1">а<br>о</br><br>а</br><br>е</br><br>ө</br></td>
+			</tr>
+		
+		<tr><td bgalpha="0"><br></br></td></tr>
+		<tr><td colspan="5" align="center" fontweight="bold">Vowel Harmony Chart (Overview)</td></tr>
+		<tr><td><br></br></td></tr>
+		<tr><td colspan="2" align="center" borderalpha="1">vowel in syllable preceding suffix</td><td colspan="3" align="center" borderalpha="1">vowel in suffix</td></tr>
+		<tr><td colspan="2" align="center" borderalpha="1"> </td><td colspan="1.5" align="center" borderalpha="1">high vowel harmony</td>
+			<td colspan="1.5" align="center" borderalpha="1">low vowel harmony</td>
+			</tr>
+		<tr><td colspan="2" align="center" borderalpha="1">а   ы<br>о</br><br>у</br><br>е   и</br><br>ө   ү</br></td>
+			<td colspan="1.5" align="center" borderalpha="1">ы<br>у</br><br>у</br><br>и</br><br>ү</br></td>
+			<td colspan="1.5" align="center" borderalpha="1">а<br>о</br><br>а</br><br>е</br><br>ө</br></td>
+			</tr>
+			
+		<tr><td bgalpha="0"><br></br></td></tr>
+		
+	</table>
+</body>
