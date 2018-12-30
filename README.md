@@ -14,8 +14,8 @@
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+Ruslan Kazakov – [Incorex LLC](https://github.com/IncorexLLC)
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+Distributed under the MIT license. See ``LICENSE`` for more information.
 
 [Mugalim](https://github.com/IncorexLLC/Mugalim)
